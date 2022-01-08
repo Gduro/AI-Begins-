@@ -17,4 +17,4 @@ def perceptron():
 
 
 output = perceptron()
-print("output: " + str(output))
+print("output:  " + str(output))
